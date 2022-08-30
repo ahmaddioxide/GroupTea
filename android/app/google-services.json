@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "676507613513",
+    "project_id": "chat-tea-9f6e4",
+    "storage_bucket": "chat-tea-9f6e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676507613513:android:b9410b18b9c3fde7e24298",
+        "android_client_info": {
+          "package_name": "com.atinity.grouptea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676507613513-opo10jtlnm7eq53289pbrkn5pkinltjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8vF20O3agum1lY6MzHTWQ_RDtNg6zd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676507613513-opo10jtlnm7eq53289pbrkn5pkinltjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676507613513-sfcr2k06ls8lmo7qe72dd62or19b1ebj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.atinity.grouptea"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
