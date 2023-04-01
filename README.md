@@ -1,16 +1,35 @@
-# grouptea
+# Group Tea App
 
-A group chat app for different cimmunities to connect with and join the chats
+Group Tea App is a cross-platform community chatting application built with Flutter and Firebase. It allows users to create communities, share thoughts, and help each other as a community. The app also includes features such as user authentication, group creation and deletion admin controls, chatting, and user profile editing.
+
+![GroupTea](https://user-images.githubusercontent.com/75989502/229323318-9c2bd52c-497a-401d-b9aa-4cad120f4614.png)
+
+## Features
+- Create and join communities
+- User authentication and profile management
+- Group creation and deletion admin controls
+- Chatting with other members of the community
+
+## Technologies Used
+
+- Flutter framework
+- Firebase
+
+## Development Timeline
+
+- August 2022: Project started
+
+## Project Scope
+
+Group Tea App was developed to provide a platform for people to connect and engage with others who share similar interests or goals. The app allows users to create communities and chat with other members of the community. It also includes features for user authentication and profile management, as well as group creation and deletion admin controls.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the app, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK 
+- Android Studio
+- Firebase project and necessary configurations
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
